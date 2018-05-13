@@ -1,19 +1,19 @@
 <template>
 	<div>
-        <p>恭喜你</p>
-		<!-- <el-row>
+        <!-- <p>恭喜你</p>
+		<el-row>
 			<el-button>默认按钮</el-button>
 			<el-button type="primary">主要按钮</el-button>
 			<el-button type="success">成功按钮</el-button>
 			<el-button type="info">信息按钮</el-button>
 			<el-button type="warning">警告按钮</el-button>
 			<el-button type="danger">危险按钮</el-button>
-		</el-row> -->
+		</el-row>
 		<mt-button type="default">default</mt-button>
 		<mt-button type="primary">primary</mt-button>
 		<mt-button type="danger">danger</mt-button>
-		<p>sdfsdfsdsdsfsdf 按时发斯蒂芬斯蒂芬水电费</p>
-		<!-- <router-view></router-view> -->
+		<p>sdfsdfsdsdsfsdf 按时发斯蒂芬斯蒂芬水电费</p> -->
+		<router-view></router-view>
 	</div>
 </template>
 
