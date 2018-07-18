@@ -1,6 +1,6 @@
 <template>
 	<div>
-        <p>恭喜你 template</p>
+        <p>恭喜你home</p>
 		<!-- <el-row>
 			<el-button>默认按钮</el-button>
 			<el-button type="primary">主要按钮</el-button>
@@ -19,7 +19,7 @@
 
 <script>
 	export default {
-		name: 'templateBox',
+		name: 'homebox',
 		components: {
 		}
 	}
