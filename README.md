@@ -1,5 +1,7 @@
 ### Usage
 
+复制完项目之后，安装vue-cli, 安装完毕，执行npm install, 如需新增页面可复制template修改里面的名称即可
+
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 github上找到某大神的一个基于vue-cli模板的vueAdmin后台管理的模板，根据项目需求改成一个多页面多路由的vue项目。
